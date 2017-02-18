@@ -1,0 +1,94 @@
+##Master VLC With These 23+ Keyboard Shortcuts
+link: https://www.howtogeek.com/196371/master-vlc-with-these-23-keyboard-shortcuts/
+https://www.evernote.com/shard/s218/sh/d96d6afa-997e-49cb-a98d-ca34f547e7c2/edffe847e1fe902bd2321cbca7430b6a
+
+
+#Shortcut:
+
+Space 																			Play/Pause
+F 																					Toggle full-screen mode
+N 																					Next track in playlist
+P 																					Previous track in playlist
+Ctrl + Up or Down arrow											Increase or decrease volume
+M 																					Mute.
+T 																					Displays the time remaining in the media file and the time elapsed.
+
+
+Shift + Left or Right arrow: 								Jump 3 seconds back or forward
+Alt + Left or Right arrow: 									Jump 10 seconds back or forward
+Ctrl + Left or Right arrow: 								Jump 1 minute back or forward
+Ctrl + Alt + Left or Right arrow: 					Jump 5 minute back or forward
+Ctrl + T : 																	Go to a specific time in the file.
+
+
+[ : 																				Decrease playback speed. [ decreases it by less, and – decreases it by more.
+] : 																				Increase playback speed
+= : 																				Return to the default playback speed
+
+
+V: 																					Toggles subtitles on or off
+B: 																					Cycle between available audio tracks.
+
+
+
+#Reading detail:
+
+##Essential Playback Shortcuts
+
+Space: Play/Pause. This is the easiest way to pause a video while it’s playing, or to resume a video that’s paused. This shortcut also works in many other video players — for example, on YouTube.
+
+F: Toggle full-screen mode. If VLC is in full-screen mode, you can press F again or just press Esc to go back to windowed mode. You can also double-click the VLC playback window to enter or leave full-screen mode.
+
+N: Next track in playlist
+
+P: Previous track in playlist
+
+Ctrl + Up or Down arrow: Increase or decrease volume. This will change VLC’s volume slider, not the system-wide volume. You can also increase or decrease the volume by rolling your mouse’s scroll wheel up or down.
+
+M: Mute.
+
+T: Displays the time remaining in the media file and the time elapsed. This information will only appear for a second or two. When watching a video in full screen mode, it’s a quick way to see how much longer you have left in the video.
+
+##Skip Ahead or Back
+
+VLC has several different key combinations that let you “jump” forward or back in the file without needing to use your mouse cursor. Use these keys to effectively rewind or fast forward, whether you need to hear something again or skip ahead.
+
+Shift + Left or Right arrow: Jump 3 seconds back or forward
+
+Alt + Left or Right arrow: Jump 10 seconds back or forward
+
+Ctrl + Left or Right arrow: Jump 1 minute back or forward
+
+Ctrl + Alt + Left or Right arrow: Jump 5 minute back or forward
+
+Ctrl + T : Go to a specific time in the file. You can type the time in with your number keys and press Enter to go there without using the mouse.
+
+##Control Playback Speed
+
+[ or – : Decrease playback speed. [ decreases it by less, and – decreases it by more.
+
+] : Increase playback speed
+
+= : Return to the default playback speed
+
+##Choose Subtitles and Audio Tracks
+
+V: Toggles subtitles on or off
+
+B: Cycle between available audio tracks. You’ll see the name of the audio track appear as an overlay when you switch to it.
+
+##Customize Your Hotkeys
+
+All of these hotkeys are fully customizable. To customize your hotkeys, click Tools > Preferences in VLC. Select the Hotkeys icon in the Simple preferences view. You can also find these options under Interface > Hotkeys settings in the All preferences view. The All view has a few more options — for example, it lets you change the amount of seconds the “Jump ahead” and “Jump back” key combinations skip back or forward. Double-click a hotkey field to set a new hotkey.
+
+You’ll find lots of options here, including a “Boss key” that isn’t set by default. Set your own boss key and you can make VLC automatically hide itself in the system tray with a single key press. “Boss keys” are so-named because you press them when your boss comes around to check on you so you can pretend you’re actually working.
+
+There’s also an option to control what the mouse wheel does — if the default volume control option doesn’t work for you, you can have the mouse wheel skip back or ahead in the current media file, or tell VLC to ignore the mouse wheel if you just find yourself bumping it accidentally.
+
+##Set Global Hotkeys
+
+All the hotkeys here only work while the VLC window is in focus. However, VLC also has the ability to create “global hotkeys” that work no matter what program you have visible. These are most useful if you’re using VLC as a background music or audio player — you can set Play/Pause, Next Track, and Previous Track keys to control VLC’s playback while using other applications. But any of VLC’s shortcut key actions can become global hotkeys.
+
+Double-click the Global hotkey field to the right of any hotkey action to set a new global hotkey. If your keyboard has media keys for actions like Play/Pause, they make great global hotkeys.
+
+These aren’t all of VLC’s hotkeys. You’ll find a complete list in its preferences pane, and you can see hotkeys associated with many of the actions just by opening VLC’s Media, Tools, or View menus. Whatever you want to do with VLC, you can probably do it with a keyboard shortcut.

@@ -1,0 +1,49 @@
+#change keybind >>> Ctrl+a we call it keybind
+
+keybind 	arrow key 								switch pane.
+Hold keybind, don't release it and hold one of the arrow keys - resize pane.
+keybind 	c 												(c)reate a new window.
+keybind 	n 												move to the (n)ext window.
+keybind 	p 												move to the (p)revious window.
+
+keybind 	x 												Kill the current pane
+keybind 	& 												Kill the current window
+keybind   <Space> 									To change pane arrangement
+
+
+####[phan window}
+
+keybind 	c        									New window
+keybind 	, {dau phay}							Dat ten window
+keybind 	l 												go to last-active window 
+keybind 	p      										chuyen toi cua so trc
+keybind 	w 												List window
+Ctrl+d 															exit current shell/window 	
+keybind 	& 												Kill the current window
+keybind 	window number 						(Move to the specified window number,the default bindings are from 0 -- 9)
+
+####[panel]
+
+keybind 	b													dua panel theo chieu ngang
+keybind 	v													dua panel theo chieu doc	
+keybind 	q 												Show pane numbers (used to switch between panes)
+keybind 	? 												List all keybindings
+keybind		} 												swap with next pane
+keybind 	{ 												swap with previous pane
+		
+####[new session]
+
+tmux new	 -s session-name					start a new session with Name
+keybind 	d 												detach from currently attached session 
+tmux ls 														List session
+tmux att	ach -t session-name				re-attach a detached session 
+tmux kil	l-session -t session-name
+
+Scrolling Around
+keybind [														view lines that have scrolled off the screen
+arrow keys 													to move a “scrolling cursor”
+Alt-v 															scrolls up a page 
+Ctrl-v 															scrolls down	
+q 																	to stop scrolling around and return to the bottom of the terminal output
+
+
